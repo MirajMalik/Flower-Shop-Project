@@ -1,0 +1,24 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+</style>
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    background-color:rgba(229, 84, 115, 0.10);
+}
+
+.container{
+    width: 75%;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.banner{
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+}
