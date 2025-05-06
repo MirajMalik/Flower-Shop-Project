@@ -98,8 +98,8 @@ header,#hot-deal{
 .section-content .flower .flower-img{
     background-color: #e55473;
     border-radius: 300px 300px 0px 0px;
-    padding: 30px 15px 0;
-    height: 480px;
+    padding: 50px 15px 0;
+    height: 400px;
     display: flex;
     align-items: end;
 }
